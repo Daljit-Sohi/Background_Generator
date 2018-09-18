@@ -1,0 +1,40 @@
+body{
+    font: 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    background-image: linear-gradient(to right, red, yellow);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* Viewport Height */
+    height: 100vh;
+}
+
+h1{
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+}
+
+h2{
+    font: 900 2.5em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.1em;
+}
+
+h3{
+    color: white;
+}
+
+.randomBtn{
+    padding: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+}
+
